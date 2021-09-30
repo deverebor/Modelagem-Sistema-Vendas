@@ -3,7 +3,7 @@ public class Produto {
   String Nome;
   Float Valor;
 
-  public void excluirProduto(int ID) {
+  public void excluirProduto(int ID_PRODUTO) {
 
   }
 }

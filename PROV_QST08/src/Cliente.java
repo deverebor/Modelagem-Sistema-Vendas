@@ -4,7 +4,7 @@ public class Cliente {
   String Endereco;
   String Telefone;
 
-  public void localizarCliente(int ID) {
+  public void localizarCliente(int ID_Cliente) {
 
   }
 
